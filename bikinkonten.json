@@ -3,8 +3,8 @@
   "short_name": "Bikin Konten",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#333333",
+  "background_color": "#f5f6f7",
+  "theme_color": "#000000",
   "description": "Generate script video viral untuk konten affiliate hanya dalam beberapa detik!",
   "icons": [
     {
@@ -19,4 +19,5 @@
     }
   ]
 }
+
 
