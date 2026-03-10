@@ -1,0 +1,22 @@
+{
+  "name": "Bikin Konten",
+  "short_name": "Bikin Konten",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#333333",
+  "description": "Generate script video viral untuk konten affiliate hanya dalam beberapa detik!",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQKorpVciOOSxq6FtwBEdIR0yRfJ5hxJfLHjEbUkS5i3RGnMjd287YipLPCx2qqTctn3bPvqjPqUholhf4WtVoF7UCw5ZWtw58hRO2yb83psR7gUsAPfqmVkLjhuJJ6jPM15sUZkiJ4uK6eMkTTbPWQO18VP8T_h1dtKS7UhkKrEkET7WWnjCDpoUW_ca/s1600/AI%20SCRIPT%20GENERATOR%20192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopL24auHdv-V4OLM6wAWO1iFEeSmxzAGH1Dh_s3fmo6G6Szf3yINXirv-okTZStamKvpwuZE0vnWvpT9fc6nO4pVCbgVT3hLFMwBk46ZjxB65zuMc5AC3aycM65wsuyuouGw8QxEHakwUo10deyV6UwjxhfQ6n0BuHKtWHcTxphrheDxwjqQqBdlODA4d/s16000/AI%20SCRIPT%20GENERATOR%20512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
